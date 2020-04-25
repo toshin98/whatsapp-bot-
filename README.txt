@@ -21,5 +21,12 @@ prerequisite(python should be installed)
                eg:- python 5.py "Greetings, you have been shortlisted"
                     no1.xlsx
 
+7. After the file execution another chrome window open and navigates by itself
+
+8. Wait for the web.whatsapp.com to open and ask for login through QR code scan
+
+9. Login into whatsapp web through your mobile. After this step no further actions needed. 
+
+10. The message will be sent to all the mobile no. listed in the excel sheet.
 NOTE: If there is an error with the chrome driver you can install the latest version from 
          (https://chromedriver.chromium.org/downloads)and replace it with the orignal. 
