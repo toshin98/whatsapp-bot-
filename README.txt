@@ -6,13 +6,15 @@ prerequisite(python should be installed)
                      pip install selenium
 
 
-3.chromedriver and the exel file should be in the same folder as the script(i.e 5.py)
+3.chromedriver and the excel file should be in the same folder as the script(i.e 5.py)
 
-4.Paste all the no. you want to send messages to in the excel sheet in the first column
+4.Paste all the numbers you want to send messages to in the excel sheet in the first column
 
-5.open the console window and navigate it to the script file. eg:- cd C:\Users\USER\Desktop\intern proj
+5.open the console window and navigate it to the script file. 
+               eg:- cd C:\Users\USER\Desktop\intern proj
 
 6.in the console window run the script and enter the excel file name in the next line
+               
                python 5.py "(message here)"
                excelname.xlsx
                
